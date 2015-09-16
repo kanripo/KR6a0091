@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 婆羅門子命終愛念不離經
+#+DATE: 2015-08-30 19:30:38.053869
+#+PROPERTY: JUAN 0
